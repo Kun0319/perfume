@@ -1,0 +1,14 @@
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    overflow: clip;
+    overflow-clip-margin: content-box;
+}
+
+.price,
+.brand {
+    font-size: 12px;
+}
+.image-container{
+    width: 255px;
+}

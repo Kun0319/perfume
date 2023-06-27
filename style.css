@@ -1,0 +1,18 @@
+#meber {
+    text-decoration: none;
+}
+
+#meber:hover {
+
+    text-decoration: underline;
+    text-decoration-color: rgb(145, 96, 0);
+
+}
+
+main {
+    color: gray;
+}
+
+select {
+    color: gray;
+}
